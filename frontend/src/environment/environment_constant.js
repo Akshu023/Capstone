@@ -1,2 +1,2 @@
-const dev = "http://localhost:1709/";
+export const dev = "https://capstone-2sip.onrender.com/";
 export { dev };
