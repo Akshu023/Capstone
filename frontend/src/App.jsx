@@ -1,8 +1,8 @@
 import React from "react";
 // ------------Components----------------------
 import Main from "./components/Main.jsx";
-import Navbar from "./components/pages/navbar/Navbar";
-import Footer from "./components/pages/footer/Footer";
+import Navbar from "./components/pages/navbar/Navbar.jsx";
+import Footer from "./components/pages/footer/Footer.jsx";
 //------------------- Css-----------------------
 import "./App.css";
 
